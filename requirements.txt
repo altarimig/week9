@@ -1,0 +1,6 @@
+pylint
+black
+isort
+pydocstyle
+Flask
+python-dotenv
